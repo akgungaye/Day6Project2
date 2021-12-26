@@ -3,5 +3,6 @@ public class Hello {
         System.out.println("hello world");
         System.out.println("ı am about to write awesome codes here");
         System.out.println("EU3 last git and github class");
+        System.out.println("EU3 is excited");
     }
 }
